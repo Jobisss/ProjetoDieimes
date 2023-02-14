@@ -1,0 +1,24 @@
+h1{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+ul{
+    list-style: square;
+    color: rgb(132, 0, 255);
+}
+
+li{
+    font-size: 50px;
+    
+}
+
+a{
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+a:hover{
+    font-size: 55px;
+}
