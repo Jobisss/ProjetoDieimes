@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(46, 60, 56)
+} 
+
+h1{
+    background-color: antiquewhite;
+}
+h2{
+    background-color:antiquewhite
+}
+img{
+    border-style:double
+}
+
+.centro{
+    text-align: center;
+}
+
+.teste{
+    text-align: center;
+}
