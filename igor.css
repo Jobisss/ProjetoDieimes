@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+h1{
+    color: rgb(red, green, blue);
+}
+h2{
+    color: aqua;
+}
+h3{
+    color: aliceblue;
+}
+h4{
+    font-style: initial;
+}
+#dov{
+    font-family: 'Courier New', Courier, monospace;
+}
+#dov{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
