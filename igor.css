@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(red, green, blue);
+}
+h1{
+    color: rgb(red, green, blue);
+}
+h2{
+    color: aqua;
+}
+h3{
+    color: aliceblue;
+}
+h4{
+    font-style: initial;
+}
